@@ -10,3 +10,7 @@ void loop() {
   // Main program loop
 }
 
+void ISR() {
+  // Interrupt Service Routine (ISR) code
+  Serial.println("External interrupt triggered!");
+}
