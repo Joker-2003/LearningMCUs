@@ -1,3 +1,5 @@
+//Relay circuit is in relay.png file
+
 #define RELAY_PIN 7
 void setup()
 {
