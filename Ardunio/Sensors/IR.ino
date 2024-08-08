@@ -1,3 +1,5 @@
+//IR circuit is in IR.png file
+
 // Define the pin connected to the output of the IR sensor
 #define IR_PIN 10;
 
