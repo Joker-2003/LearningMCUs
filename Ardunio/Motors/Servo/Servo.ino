@@ -14,3 +14,5 @@ void loop()
 	myServo.write(angle);						// Set the servo position according to the mapped value
 	delay(15);									// Small delay to allow the servo to reach the position
 }
+
+//circuit is in servo.png file
